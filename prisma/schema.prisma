@@ -21,3 +21,10 @@ model Produto {
   about   String?
   rating  Float?
 }
+
+model User {
+  id      String   @id @default(auto()) @map("_id") @db.ObjectId
+  name    String
+  email   String
+  date    DateTime
+}
