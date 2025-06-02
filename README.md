@@ -12,7 +12,7 @@
   </a>
 </p>
 
-<p align="center">A API made for the <a href="https://github.com/edvaldinhs/react-generic-ecommerce">Gecco React</a> project</p>
+<p align="center">API made for the <a href="https://github.com/edvaldinhs/react-generic-ecommerce">Gecco React</a> project</p>
 
 <br>
 
